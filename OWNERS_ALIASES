@@ -9,7 +9,6 @@ aliases:
     - sttts
     - tallclair
   sig-auth-audit-reviewers:
-    - CaoShuFeng
     - hzxuzhonghu
     - lavalamp
     - sttts
@@ -224,17 +223,17 @@ aliases:
     - bentheelder
     - cblecker
     - fejta
-    - krzyzacy
-    - ixdy
     - spiffxp
     - dims
   sig-testing-approvers:
     - bentheelder
     - cblecker
     - fejta
-    - krzyzacy
-    - ixdy
     - spiffxp
+    # emeritus
+    # - ixdy
+    # - krzyzacy
+
   sig-node-approvers:
     - Random-Liu
     - dchen1107
@@ -272,7 +271,6 @@ aliases:
     - freehan
     - johnbelamaric
     - mrhohn
-    - nicksardo
     - thockin
   sig-network-reviewers:
     - andrewsykim
@@ -286,7 +284,6 @@ aliases:
     - johnbelamaric
     - m1093782566
     - mrhohn
-    - nicksardo
     - rramkumar1
     - thockin
   sig-apps-approvers:
